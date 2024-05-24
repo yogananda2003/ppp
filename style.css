@@ -1,0 +1,30 @@
+
+.gradient-background{
+    background: rgb(2,0,36);
+    height: 500px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(10,10,126,1) 35%, rgba(0,212,255,1) 100%);
+    color: aliceblue;
+    font-weight: 400;
+    font-size: x-large;
+}
+
+.d-block{
+    border-radius: 100%;
+}
+.fs{
+    font-family: teko;
+    font-style:unset;
+       
+}
+
+.gradient-backgroundu{
+    background: rgb(2,0,36);
+    height: 200px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(10,10,126,1) 35%, rgba(0,212,255,1) 100%);
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+.nav-item{
+    color: aliceblue;
+}
